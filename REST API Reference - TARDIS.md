@@ -148,7 +148,7 @@
   Revoke a task   
   Example request:
   ```http
-  POST /api/task/revoke/1480b55c-b8b2-462c-985e-24af3e9158f9?terminate=true
+  POST /api/task/revoke/1480b55c-b8b2-462c-985e-24af3e9158f9
   Content-Length: 0
   Content-Type: application/x-www-form-urlencoded; charset=utf-8
   Host: localhost:5555
